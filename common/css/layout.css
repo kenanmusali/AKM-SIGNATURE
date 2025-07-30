@@ -1,0 +1,94 @@
+/* .Signature-preview {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.Signature-preview p {
+    font-size: 12px;
+    margin-bottom: 0.5rem;
+}
+
+.userName {
+    font-weight: 700;
+}
+
+.logo-image {
+    height: 2.8rem;
+    width: fit-content;
+    margin-bottom: 0.5rem;
+
+}
+.logo2-image {
+    height: 3rem;
+    width: fit-content;
+    margin-bottom: 0.5rem;
+
+}
+
+.text2 {
+    font-size: 8px !important;
+    width: 32rem;
+    text-align: justify;
+    color: rgb(90, 90, 90);
+    line-height: 0.8rem;
+    margin-top: 0.5rem;
+}
+
+.companyName {
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin: 0.5rem 0 0.8rem 0 !important ;
+
+}
+
+.link {
+    font-size: 12px;
+    margin-bottom: 0.5rem;
+    color: #00587e;
+}
+
+.Signature-Item1 a img{
+        height: 1.5rem;
+}
+.Signature-Item1 {
+    display: flex;
+    margin-bottom: 1rem;
+    gap: 0.3rem;
+    align-items: center;
+
+}
+
+.start {
+    margin-bottom: 1rem !important;
+}
+
+.web {
+    margin-bottom: 1.2rem !important;
+}
+
+.Signature-Item1 {
+    display: flex;
+}
+
+.text3 {
+    font-size: 8px !important;
+    width: 32rem;
+    text-align: justify;
+    color: #84C54C;
+    line-height: 0.8rem;
+    margin-bottom: 0 !important;
+}
+
+.logo3-image {
+
+    height: 0.7rem;
+}
+
+.ItemSIGN{
+    display: flex;
+    align-items: center !important;
+    margin-top: 0.5rem;
+    margin: 0 !important;
+} */
